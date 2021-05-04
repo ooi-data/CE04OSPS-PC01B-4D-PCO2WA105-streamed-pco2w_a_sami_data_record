@@ -1,0 +1,6 @@
+data_location: s3://ooi-data/CE04OSPS-PC01B-4D-PCO2WA105-streamed-pco2w_a_sami_data_record
+data_stream: CE04OSPS-PC01B-4D-PCO2WA105-streamed-pco2w_a_sami_data_record
+end_date: '2020-08-18T01:05:10.893Z'
+last_updated: '2021-05-04T23:39:21.218775Z'
+start_date: '2014-10-08T20:05:09.941Z'
+status: pending
